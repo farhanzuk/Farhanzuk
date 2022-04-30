@@ -4,7 +4,13 @@
 - 👀 I’m interested in App Development
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
+- 👮 Hobby: Driving and Drifting Cars🚗 and Programming💻
 - 📫 How to reach me LinkedIn: https://www.linkedin.com/in/farhan-zafar-2048a9176
+- 💻 Already Worked with So many Clients with successful Projects on Fiverr
+- 💻I am also Tutor of JAVA and App development
+- 🌍✈ Visited Places:
+- 
+- 🖥 My Projects List:
 
 
 <!---
